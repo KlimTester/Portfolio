@@ -21,7 +21,7 @@ Moreover, my experience in the sports world have taught me the importance of tea
 
 Furthermore, I am a naturally positive-thinking person. I believe in the power of optimism to overcome challenges and drive innovation. This positive outlook has served me well in my previous roles and endeavors, and I intend to bring this mindset to the field of software testing to foster a constructive and productive work environment.
 
-In addition to my sports background, I have experience as a logistic employee in an airfreight company at the bustling Airport Schiphol in Amsterdam. This role required me to manage and coordinate the movement of goods efficiently. It enhanced my organizational skills, attention to detail, and ability to meet deadlines—qualities that are crucial for quality assurance and software testing.
+In addition to my sports background, I have experience as a logistic employee in an airfreight company at the bustling Airport Schiphol in Amsterdam. This role required me to manage and coordinate the movement of goods efficiently. It enhanced my organizational skills, attention to detail, and ability to meet deadlines-qualities that are crucial for quality assurance and software testing.
 
 I am excited about the opportunity to transition into the field of software testing and leverage my unique set of skills and experiences to excel in this role.
 
