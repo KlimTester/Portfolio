@@ -25,6 +25,9 @@ In addition to my sports background, I have experience as a logistic employee in
 
 I am excited about the opportunity to transition into the field of software testing and leverage my unique set of skills and experiences to excel in this role.
 
+## CV
+
+You can download my CV as [a PDF from my Google Drive]
 
 
 
