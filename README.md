@@ -52,6 +52,9 @@ __API testing__
 __Exploratory testing__
   * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
 
+__Load testing__
+  * know how test the load on visiting websites
+
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
@@ -65,6 +68,33 @@ __Python fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
+
+ ## Tools
+
+ __Qase io__
+  * know how to create test cases and test suits
+  * able to run created test cases
+  * know how to use dashboards and statistics
+
+__Jira__
+  * know how to create bug reports
+  * able to create projects and track their progress
+
+__SoapUI__
+
+__Browser developer tools__
+
+__VirtualBox__
+  * able to set up and operate virtual machines
+
+__Trello and Notion__
+  * know how to use Kanban boards and track project progress
+
+__Mind maps & diagrams__
+  * know how to design beautifully simple mind maps
+
+__Jmeter__
+* know how to use it for load testing
 
 
 
