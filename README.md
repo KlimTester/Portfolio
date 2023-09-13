@@ -105,7 +105,7 @@ __Confluence__
 __The Best Online University of Software Testing__  
 *online course by SkyPro, Moscow, Russia*  
 A comprehensive course (1 Year) in quality assurance, testing theory and a lot of practice, covering skills in functional testing and test automation.  
-[Link to the certificate]
+[Link to the Diploma]
 
 ## Examples of my work
 
