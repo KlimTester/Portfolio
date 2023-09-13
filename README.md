@@ -96,5 +96,9 @@ __Mind maps & diagrams__
 __Jmeter__
 * know how to use it for load testing
 
+__Confluence__
+* know how create and maintain test plans in Confluence
+* use for document test cases and test scenarios
+
 
 
