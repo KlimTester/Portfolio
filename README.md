@@ -4,11 +4,10 @@ _______
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
+- [Courses](#additionaleducation)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in Qase io](#test-cases-and-work-in-testrail)
+  * [Test cases and work in Qase io](#test-cases-and-work-in-qaseiol)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
 
 ## About me
@@ -100,14 +99,57 @@ __Confluence__
 * know how create and maintain test plans in Confluence
 * use for document test cases and test scenarios
 
-## Courses
+## ADDITIONAL EDUCATION
 
-__The Best Online University of Software Testing__  
-*online course by SkyPro, Moscow, Russia*  
-A comprehensive course (1 Year) in quality assurance, testing theory and a lot of practice, covering skills in functional testing and test automation.  
+__Software Testing Fundamentals Course__  
+*online course by SkyPro, Moscow, Russia 2023*  
+A comprehensive course(132h) in quality assurance, covering skills in
+functional testing and test automation.
+
+__API Testing__  
+*online course by SkyPro, Moscow, Russia 2023*
+Fundamental knowledge of API testing(124h)
+Working with Postman
+Soap UI
+
+__SQL__  
+*online course by SkyPro, Moscow, Russia 2023*
+Fundamental knowledge of SQL(48h)
+In the course we studied the structure of the database, learned to
+understand the relational model and know the principles of database
+normalization.
+Working with MySQL
+
+__Web testing/Testing tools__  
+*online course by SkyPro, Moscow, Russia 2023*
+Knowledge of Testing tools(48h)
+Introduction to HTML and CSS
+Working with Chrome DevTools.
+CI/CD
+Docker
+
 [Link to the Diploma]
 
 ## Examples of my work
 
 ### Test cases and work in Qase io
+
+- [The training webpage Library](https://online-ru-library.herokuapp.com) was used for working with Qase io.
+  * Test case (in Russian) for authorisation. Check [the screenshot from Qase io here](https://drive.google.com/file/d/1OTJMIMk2PFGpBs7kpFRaOP9Mbx4Q_XTy/view?usp=sharing).
+  * Test case (in Russian) for adding an item to the cart. See [the screenshot from Qase io here](https://drive.google.com/file/d/1fhL0CuDV29X5U7775GJY_CQNiLXZTE86/view?usp=sharing).
+  * Test suits and a test run for the cart. See [the screenshots from Qase io here](https://drive.google.com/file/d/1Y5pg2oDJ72frpkhdiRCGu0istb6OG5hv/view?usp=sharing).
+
+### Bug reports and work in Jira
+
+- Several bugs found on [Testing the Personal Account of the Online School](https://new-teachers.skyeng.ru/) and reported:
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1D1VfkOh2LtxoQvSTN1jffmy_vfVtph0k/view?usp=sharing).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1qQAljV5JuPobpsp38gnTGeTE2EZKf0LE/view?usp=sharing).
+  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1M5iVDZDPw7hxoKuPynkQaNK9QsjncpGP/view?usp=sharing).
+* An example of a project in Jira. Check [the screenshot]
+
+  ## Books I have read
+__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
+
+__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+
 
