@@ -4,9 +4,9 @@ _______
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#additionaleducation)
+- [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in Qase io](#test-cases-and-work-in-qaseiol)
+  * [Test cases and work in Qase io](#test-cases-and-work-in-Qaseiol)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 - [Books I have read](#books-i-have-read)
 
@@ -99,7 +99,7 @@ __Confluence__
 * know how create and maintain test plans in Confluence
 * use for document test cases and test scenarios
 
-## ADDITIONAL EDUCATION
+## Courses
 
 __Software Testing Fundamentals Course__  
 *online course by SkyPro, Moscow, Russia 2023*  
