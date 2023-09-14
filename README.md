@@ -6,7 +6,7 @@ _______
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in Qase io](#test-cases-and-work-in-Qaseiol)
+  * [Test cases and work in Qase io](#test-cases-and-work-in-qaseio)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 - [Books I have read](#books-i-have-read)
 
