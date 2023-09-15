@@ -124,7 +124,7 @@ __Web testing/Testing tools__
 *online course by SkyPro, Moscow, Russia 2023*
 Knowledge of Testing tools(48h)
 Introduction to HTML and CSS
-Working with Chrome DevTools.
+Working with Browser DevTools.
 CI/CD
 Docker
 
@@ -146,6 +146,12 @@ Docker
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1qQAljV5JuPobpsp38gnTGeTE2EZKf0LE/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1M5iVDZDPw7hxoKuPynkQaNK9QsjncpGP/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot]
+
+### Postman API
+
+- API Testing via Postman [Testing the Personal Account of the Online School](https://new-teachers.skyeng.ru/)
+  * Examples reqests (in English) for authorisation. Check [the screenshot from Postman here](https://drive.google.com/file/d/1-Gkoqp8CMU2DjJEaKRsOieNzrnkMax_r/view?usp=sharing).
+  * Test run Collection (in English) See [the screenshot from Postman here](https://drive.google.com/file/d/1Il8rxvd1i2B3C97FTLv3PWTcCkdt2NUE/view?usp=sharing).
 
   ## Books I have read
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
