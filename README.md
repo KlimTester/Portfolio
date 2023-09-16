@@ -27,7 +27,7 @@ I am excited about the opportunity to transition into the field of software test
 
 ## CV
 
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1Z5XybFfvQlvsj5Lwr8ulq82gn10deScZ/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1_GMCMvm8KsASX-kwo0Dc8UHh0mDGAoiK/view?usp=sharing).
 
 ## Skills
 
