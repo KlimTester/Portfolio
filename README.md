@@ -13,7 +13,7 @@ _______
 
 ## About me
 
-My name is Ilia Klimov, and I am from the vast and beautiful region of Siberia. Although I have a diverse background, one common thread throughout my life has been my unwavering dedication to excellence and my passion for new challenges. I believe these qualities make me a valuable candidate for the role of a Junior Software Tester.
+My name is Ilia Klimov, and I am from the vast and beautiful region of Siberia. Although I have a diverse background, one common thread throughout my life has been my unwavering dedication to excellence and my passion for new challenges. I believe these qualities make me a valuable candidate for the role of a Software Tester.
 
 As a professional sportsman and trainer, I have developed my discipline, attention to detail, and the ability to work under pressure. These skills are not only crucial in the world of sports but are also highly applicable to the field of software testing. Just as in sports, precision, focus, and a strong work ethic are vital in ensuring that software functions seamlessly and meets user expectations.
 
