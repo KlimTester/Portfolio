@@ -133,26 +133,18 @@ Docker
 
 ## Examples of my work
 
-### Test cases and work in Qase io
+# Projects
+- [Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4): The “Testing the teacher’s office” project was launched to ensure teachers’ effective work with online -platform. We used a wide range of tools, including automated tests, manual testing and user feedback.
 
-- [The training webpage Library](https://online-ru-library.herokuapp.com) was used for working with Qase io.
-  * Test case (in Russian) for authorisation. Check [the screenshot from Qase io here](https://drive.google.com/file/d/1OTJMIMk2PFGpBs7kpFRaOP9Mbx4Q_XTy/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from Qase io here](https://drive.google.com/file/d/1fhL0CuDV29X5U7775GJY_CQNiLXZTE86/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from Qase io here](https://drive.google.com/file/d/1Y5pg2oDJ72frpkhdiRCGu0istb6OG5hv/view?usp=sharing).
+Results include increased stability and performance of the account, identification and elimination of bugs, and improved user experience. Teachers can now interact seamlessly with the platform, facilitating more effective learning and information sharing.
+- [Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4): The project included testing the functionality of the teacher's office using the API tool Postman. We have created a set of tests covering various aspects of the system, such as logging in, managing classes, adding and grading assignments.
 
-### Bug reports and work in Jira
+The Postman API tool allowed us to automate the testing process by creating and running requests to the teacher's office API. We used various request methods, checking the correctness of server responses, error handling, and compliance with API documentation.
 
-- Several bugs found on [Testing the Personal Account of the Online School](https://new-teachers.skyeng.ru/) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1D1VfkOh2LtxoQvSTN1jffmy_vfVtph0k/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1qQAljV5JuPobpsp38gnTGeTE2EZKf0LE/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1M5iVDZDPw7hxoKuPynkQaNK9QsjncpGP/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot]
+The testing results made it possible to identify and eliminate various errors and inconsistencies in the functionality of the teacher’s office. This increased system stability, improved user experience, and ensured a more reliable platform.
 
-### Postman API
-
-- API Testing via Postman [Testing the Personal Account of the Online School](https://new-teachers.skyeng.ru/)
-  * Examples reqests (in English) for authorisation. Check [the screenshot from Postman here](https://drive.google.com/file/d/1-Gkoqp8CMU2DjJEaKRsOieNzrnkMax_r/view?usp=sharing).
-  * Test run Collection (in English) See [the screenshot from Postman here](https://drive.google.com/file/d/1Il8rxvd1i2B3C97FTLv3PWTcCkdt2NUE/view?usp=sharing).
+Overall, the project using the Postman API allowed for effective testing of the teacher's office, improving its functionality and reliability.
+- [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4): The project included four completely different tasks to test knowledge in the field of Testing. SQL, API and Testing Fundamentals.
 
   ## Books I have read
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
