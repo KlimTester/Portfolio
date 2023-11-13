@@ -45,6 +45,8 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## 🖱️Skills and technologies
 
+---
+
 ### 📁 Test documentation:
 
 <div>
