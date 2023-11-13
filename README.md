@@ -2,105 +2,108 @@
 _______
 - [👨‍💻About me](#👨‍💻about-me)
 - [📃CV](#📃cv)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [🖱️Skills and technologies](#🖱️skills-and-technologies)
+- [👨‍🎓Courses](#👨‍🎓courses)
+- [📊Examples of my work](#📊examples-of-my-work)
   * [Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
   * [Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4)
   * [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4)
 - [Books I have read](#books-i-have-read)
 
+---
+
 ## 👨‍💻About me
 
-My name is Ilia Klimov, and I am from the vast and beautiful region of Siberia. Although I have a diverse background, one common thread throughout my life has been my unwavering dedication to excellence and my passion for new challenges. I believe these qualities make me a valuable candidate for the role of a Software Tester.
+  Hello! My name is Ilya Klimov and I am an aspiring testing engineer who is truly passionate about the world of software testing. My story in this field is just beginning, but I have a burning desire to learn and grow in this profession.
 
-As a professional sportsman and trainer, I have developed my discipline, attention to detail, and the ability to work under pressure. These skills are not only crucial in the world of sports but are also highly applicable to the field of software testing. Just as in sports, precision, focus, and a strong work ethic are vital in ensuring that software functions seamlessly and meets user expectations.
+**My skills and experience:**
 
-Moreover, my experience in the sports world have taught me the importance of teamwork and effective communication. I understand that successful software testing requires collaboration with various stakeholders to identify and resolve issues efficiently. I am confident that my ability to work well within a team or independently will contribute positively to the software testing process.
+- **Manual Testing:** I have experience in manual testing including test case creation, test execution and defect tracking. I pay close attention to detail and strive to identify hidden errors.
 
-Furthermore, I am a naturally positive-thinking person. I believe in the power of optimism to overcome challenges and drive innovation. This positive outlook has served me well in my previous roles and endeavors, and I intend to bring this mindset to the field of software testing to foster a constructive and productive work environment.
+- **Learning Ability:** I am a fast learner and am willing to develop my testing skills and learn new tools and techniques.
 
-In addition to my sports background, I have experience as a logistic employee in an airfreight company at the bustling Airport Schiphol in Amsterdam. This role required me to manage and coordinate the movement of goods efficiently. It enhanced my organizational skills, attention to detail, and ability to meet deadlines-qualities that are crucial for quality assurance and software testing.
+- **Communication:** I value teamwork and the ability to communicate effectively with colleagues to solve problems together.
 
-I am excited about the opportunity to transition into the field of software testing and leverage my unique set of skills and experiences to excel in this role.
+- **Analytical Mindset:** I like to analyze processes and look for ways to improve.
+
+**My goal:**
+
+My goal is to become an experienced testing professional who is able to ensure high quality software. I am committed to learning about automated testing as well as developing skills in test design and strategy.
+
+**My worldview:**
+
+I believe that testing is a key part of the software development process and my role is to ensure reliability and user satisfaction. I am ready to contribute to the successful achievement of this goal and am excited about the new challenges and opportunities that the world of testing provides. 
+
+---
 
 ## 📃CV
 
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1qVVDADZtsSLaslsBjq5joXAhTWFkJToI/view?usp=drivesdk) 
 
-## Skills
+---
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+## 🖱️Skills and technologies
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+### 📁 Test documentation:
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+</div>
 
-__API testing__
-  * Good level of work in Postman, successfully defended coursework for the API Testing course
-  * I know how to send requests, create Collections, Veriables
-  * I know how to conduct a test-run
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+---
 
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+### 🛠 Web Application Testing:
+<div>
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
+</div>
 
-__Load testing__
-  * know how test the load on visiting websites
+---
 
-__Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+### 📱 Mobile application testing:
 
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
+</div>
 
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+---
 
- ## Tools
+### 💾 Working with data:
 
- __Qase io__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+</div>
 
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+---
 
-__SoapUI__
+### ✏️ Working with the code:
 
-__Browser developer tools__
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  
+</div>
 
-__VirtualBox__
-  * able to set up and operate virtual machines
+---
 
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
 
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+## 👨‍🎓Courses
 
-__Jmeter__
-* know how to use it for load testing
-
-__Confluence__
-* know how create and maintain test plans in Confluence
-* use for document test cases and test scenarios
-
-## Courses
+---
 
 __Software Testing Fundamentals Course__  
 *online course by SkyPro, Moscow, Russia 2023*  
@@ -129,9 +132,11 @@ Working with Browser DevTools.
 CI/CD
 Docker
 
-[Link to the Diploma]
+[Link to the Diploma] 
 
-## Examples of my work
+---
+
+## 📊Examples of my work
 
 # Projects
 - [Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4): The “Testing the teacher’s office” project was launched to ensure teachers’ effective work with online -platform. We used a wide range of tools, including automated tests, manual testing and user feedback.
@@ -144,11 +149,15 @@ The Postman API tool allowed us to automate the testing process by creating and 
 The testing results made it possible to identify and eliminate various errors and inconsistencies in the functionality of the teacher’s office. This increased system stability, improved user experience, and ensured a more reliable platform.
 
 Overall, the project using the Postman API allowed for effective testing of the teacher's office, improving its functionality and reliability.
-- [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4): The project included four completely different tasks to test knowledge in the field of Testing. SQL, API and Testing Fundamentals.
+- [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4): The project included four completely different tasks to test knowledge in the field of Testing. SQL, API and Testing Fundamentals. 
+
+---
 
   ## Books I have read
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+
+
 
 
