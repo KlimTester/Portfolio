@@ -1,4 +1,4 @@
-# Portfolio by Klimov Ilia
+# Hello, I am Ilia Klimov - Software Tester. 
 _______
 - [👨‍💻About me](#👨‍💻about-me)
 - [📃CV](#📃cv)
