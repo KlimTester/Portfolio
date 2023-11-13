@@ -5,10 +5,11 @@ _______
 - [🖱️Skills and technologies](#🖱️skills-and-technologies)
 - [👨‍🎓Courses](#👨‍🎓courses)
 - [📊Examples of my work](#📊examples-of-my-work)
-  * [Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
-  * [Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4)
-  * [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4)
+  * [✅Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
+  * [✅Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4)
+  * [✅Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4)
 - [💡Books I have read](#💡books-i-have-read)
+- [📞Contact information](#📞Contact-information) 
 
 ---
 
@@ -139,17 +140,17 @@ Docker
 ## 📊Examples of my work
 
 # Projects
-- [Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4): The “Testing the teacher’s office” project was launched to ensure teachers’ effective work with online -platform. We used a wide range of tools, including automated tests, manual testing and user feedback.
+- [✅Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4): The “Testing the teacher’s office” project was launched to ensure teachers’ effective work with online -platform. We used a wide range of tools, including automated tests, manual testing and user feedback.
 
 Results include increased stability and performance of the account, identification and elimination of bugs, and improved user experience. Teachers can now interact seamlessly with the platform, facilitating more effective learning and information sharing.
-- [Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4): The project included testing the functionality of the teacher's office using the API tool Postman. We have created a set of tests covering various aspects of the system, such as logging in, managing classes, adding and grading assignments.
+- [✅Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4): The project included testing the functionality of the teacher's office using the API tool Postman. We have created a set of tests covering various aspects of the system, such as logging in, managing classes, adding and grading assignments.
 
 The Postman API tool allowed us to automate the testing process by creating and running requests to the teacher's office API. We used various request methods, checking the correctness of server responses, error handling, and compliance with API documentation.
 
 The testing results made it possible to identify and eliminate various errors and inconsistencies in the functionality of the teacher’s office. This increased system stability, improved user experience, and ensured a more reliable platform.
 
 Overall, the project using the Postman API allowed for effective testing of the teacher's office, improving its functionality and reliability.
-- [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4): The project included four completely different tasks to test knowledge in the field of Testing. SQL, API and Testing Fundamentals. 
+- [✅Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4): The project included four completely different tasks to test knowledge in the field of Testing. SQL, API and Testing Fundamentals. 
 
 ---
 
@@ -157,6 +158,30 @@ Overall, the project using the Postman API allowed for effective testing of the 
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+
+---
+
+### ⚙️ GitHub statistics:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=KlimTester&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KlimTester&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KlimTester)
+
+---
+
+## 📞Contact information:
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@ilia8klimov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilia8klimov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](Klimov888ily@gmail.com)
+
+
 
 
 
