@@ -15,7 +15,7 @@ _______
 
 ## 👨‍💻About me
 
-  Hello! My name is Ilya Klimov and I am an aspiring testing engineer who is truly passionate about the world of software testing. My story in this field is just beginning, but I have a burning desire to learn and grow in this profession.
+  Hello! My name is Ilia Klimov and I am an aspiring testing engineer who is truly passionate about the world of software testing. My story in this field is just beginning, but I have a burning desire to learn and grow in this profession.
 
 **My skills and experience:**
 
@@ -158,23 +158,6 @@ Overall, the project using the Postman API allowed for effective testing of the 
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
-
----
-
-### ⚙️ GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=KlimTester&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KlimTester&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KlimTester)
 
 ---
 
