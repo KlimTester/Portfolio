@@ -39,7 +39,7 @@ I believe that testing is a key part of the software development process and my 
 
 ## 📃CV
 
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1qVVDADZtsSLaslsBjq5joXAhTWFkJToI/view?usp=drivesdk) 
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1rB2fUf16muRHyZlP5vJfnLYdHE6hc3iX/view?usp=sharing) 
 
 ---
 
