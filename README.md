@@ -139,7 +139,7 @@ Docker
 
 ## 📊Examples of my work
 
-# Projects
+## 💻Projects
 - [✅Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4): The “Testing the teacher’s office” project was launched to ensure teachers’ effective work with online -platform. We used a wide range of tools, including automated tests, manual testing and user feedback.
 
 Results include increased stability and performance of the account, identification and elimination of bugs, and improved user experience. Teachers can now interact seamlessly with the platform, facilitating more effective learning and information sharing.
