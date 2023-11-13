@@ -1,7 +1,7 @@
 # Portfolio by Klimov Ilia
 _______
-- [About me](#about-me)
-- [CV](#cv)
+- [👨‍💻About me](#👨‍💻about-me)
+- [📃CV](#📃cv)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
@@ -11,7 +11,7 @@ _______
   * [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4)
 - [Books I have read](#books-i-have-read)
 
-## About me
+## 👨‍💻About me
 
 My name is Ilia Klimov, and I am from the vast and beautiful region of Siberia. Although I have a diverse background, one common thread throughout my life has been my unwavering dedication to excellence and my passion for new challenges. I believe these qualities make me a valuable candidate for the role of a Software Tester.
 
@@ -25,7 +25,7 @@ In addition to my sports background, I have experience as a logistic employee in
 
 I am excited about the opportunity to transition into the field of software testing and leverage my unique set of skills and experiences to excel in this role.
 
-## CV
+## 📃CV
 
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1qVVDADZtsSLaslsBjq5joXAhTWFkJToI/view?usp=drivesdk) 
 
