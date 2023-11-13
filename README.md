@@ -1,15 +1,15 @@
 # Hello, I am Ilia Klimov - Software Tester. 
 _______
-- [👨‍💻About me](#👨‍💻about-me)
-- [📃CV](#📃cv)
-- [🖱️Skills and technologies](#🖱️skills-and-technologies)
-- [👨‍🎓Courses](#👨‍🎓courses)
-- [📊Examples of my work](#📊examples-of-my-work)
-  * [✅Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
-  * [✅Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4)
-  * [✅Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4)
-- [💡Books I have read](#💡books-i-have-read)
-- [📞Contact information](#📞Contact-information) 
+- [About me](#about-me)
+- [CV](#cv)
+- [Skills and technologies](#skills-and-technologies)
+- [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
+  * [Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
+  * [Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4)
+  * [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4)
+- [💡Books I have read](#books-i-have-read)
+- [📞Contact information](#Contact-information) 
 
 ---
 
