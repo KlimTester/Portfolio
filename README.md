@@ -2,7 +2,7 @@
 _______
 - [👨‍💻About me](#about-me)
 - [📃CV](#cv)
-- [🖱️Skills and technologies](#skills-and-technologies)
+- [🖱️Tools](#Tools)
 - [👨‍🎓Courses](#courses)
 - [📊Examples of my work](#examples-of-my-work)
   * [✅Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
@@ -43,7 +43,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ---
 
-## 🖱️Skills and technologies
+## 🖱️Tools
 
 ---
 
