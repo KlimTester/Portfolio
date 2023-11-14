@@ -5,7 +5,7 @@ _______
 - [🖱️Tools](#tools)
   * [Test documentation](#test-documentation)
   * [Web Application testing](#web-application-testing)
-  * [Mobile application testing](#mobile-application-testing)
+  * [Mobile Application testing](#mobile-application-testing)
   * [Working with data](#working-with-data)
   * [Working with code](#working-with-code)
 - [👨‍🎓Courses](#courses)
@@ -75,7 +75,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ---
 
-### 📱 Mobile application testing
+### 📱 Mobile Application testing
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
