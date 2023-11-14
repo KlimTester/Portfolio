@@ -4,7 +4,7 @@ _______
 - [📃CV](#cv)
 - [🖱️Tools](#tools)
   * [Test documentation](#test-documentation)
-  * [Web Application Testing](#web-application-testing)
+  * [Web Application testing](#web-application-testing)
   * [Mobile application testing](#mobile-application-testing)
   * [Working with data](#working-with-data)
   * [Working with code](#working-with-code)
@@ -66,7 +66,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ---
 
-### 🛠 Web Application Testing:
+### 🛠 Web Application testing:
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
