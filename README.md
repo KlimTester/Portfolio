@@ -3,6 +3,11 @@ _______
 - [👨‍💻About me](#about-me)
 - [📃CV](#cv)
 - [🖱️Tools](#tools)
+  * [Test documentation:](#test-documentation:)
+  * [Web Application Testing:](#web-application-testing:)
+  * [Mobile application testing:](#mobile-application-testing:)
+  * [Working with data:](#working-with-data:)
+  * [Working with code:](#working-with-code:)
 - [👨‍🎓Courses](#courses)
 - [📊Examples of my work](#examples-of-my-work)
   * [✅Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
@@ -92,7 +97,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ---
 
-### ✏️ Working with the code:
+### 🖥️ Working with code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
