@@ -134,7 +134,7 @@ Working with PostgreSQL
 
 __Mobile Testing__
 *online course by SkyPro, Moscow, Russia 2023*
-Mobile applications and their varieties. (124h)
+Mobile applications and their varieties (124h)
 Features of testing mobile applications.  Testing Android and iOS applications. 
 Working with mobile farms and traffic sniffing.
 
