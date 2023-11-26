@@ -130,7 +130,13 @@ Fundamental knowledge of SQL(48h)
 In the course we studied the structure of the database, learned to
 understand the relational model and know the principles of database
 normalization.
-Working with MySQL
+Working with PostgreSQL
+
+__Mobile Testing__
+*online course by SkyPro, Moscow, Russia 2023*
+Mobile applications and their varieties. (124h)
+Features of testing mobile applications.  Testing Android and iOS applications. 
+Working with mobile farms and traffic sniffing.
 
 __Web testing/Testing tools__  
 *online course by SkyPro, Moscow, Russia 2023*
