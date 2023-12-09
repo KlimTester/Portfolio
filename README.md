@@ -121,7 +121,7 @@ __QA Software Testing Engineer__
 __QA Engineer__
 *Yandex Practicum, Moscow, Russia 2023*
 
-[https://drive.google.com/file/d/10N5MKSP-K_5IeKsgDkWmwopJ6JK5m3zn/view?usp=drivesdk] 
+[Link to the Diploma](https://drive.google.com/file/d/10N5MKSP-K_5IeKsgDkWmwopJ6JK5m3zn/view?usp=drivesdk) 
 
 ---
 
