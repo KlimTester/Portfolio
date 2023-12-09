@@ -112,40 +112,16 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ---
 
-__Software Testing Fundamentals Course__  
-*online course by SkyPro, Moscow, Russia 2023*  
-A comprehensive course(132h) in quality assurance, covering skills in
-functional testing and test automation.
+__QA Software Testing Engineer__  
+*SkyPro, Moscow, Russia 2023*  
 
-__API Testing__  
-*online course by SkyPro, Moscow, Russia 2023*
-Fundamental knowledge of API testing(124h)
-Working with Postman
-Soap UI
+[Link to the Diploma]
 
-__SQL__  
-*online course by SkyPro, Moscow, Russia 2023*
-Fundamental knowledge of SQL(48h)
-In the course we studied the structure of the database, learned to
-understand the relational model and know the principles of database
-normalization.
-Working with PostgreSQL
 
-__Mobile Testing__
-*online course by SkyPro, Moscow, Russia 2023*
-Mobile applications and their varieties (124h)
-Features of testing mobile applications.  Testing Android and iOS applications. 
-Working with mobile farms and traffic sniffing.
+__QA Engineer__
+*Yandex Practicum, Moscow, Russia 2023*
 
-__Web testing/Testing tools__  
-*online course by SkyPro, Moscow, Russia 2023*
-Knowledge of Testing tools(48h)
-Introduction to HTML and CSS
-Working with Browser DevTools.
-CI/CD
-Docker
-
-[Link to the Diploma] 
+[Link to the Diploma]
 
 ---
 
