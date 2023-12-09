@@ -130,7 +130,17 @@ __QA Engineer__
 
 ## 💻Projects
 
-- [✅Testing the Landing Page of the Educational Platform](https://phrygian-condition-be6.notion.site/b208236d4ba14a3a9c2dbf8ca5890116?pvs=4) 
+- [✅Testing the Landing Page of the Educational Platform](https://phrygian-condition-be6.notion.site/b208236d4ba14a3a9c2dbf8ca5890116?pvs=4): The Testing Landing Page of the Educational Platform: 
+1. Unit Testing
+2. Integration Testing
+3. Regression Testing
+4. Functional Testing
+5. Performance Testing
+6. Compatibility Testing
+7. Security Testing
+8. Mobile Testing
+9. Localization Testing
+10. Usability Testing
 - [✅Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4): The “Testing the teacher’s office” project was launched to ensure teachers’ effective work with online -platform. We used a wide range of tools, including automated tests, manual testing and user feedback.
 
 Results include increased stability and performance of the account, identification and elimination of bugs, and improved user experience. Teachers can now interact seamlessly with the platform, facilitating more effective learning and information sharing.
