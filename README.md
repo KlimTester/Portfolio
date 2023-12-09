@@ -13,8 +13,8 @@ _______
 
 * [Testing the Landing Page of the Educational Platform](https://phrygian-condition-be6.notion.site/b208236d4ba14a3a9c2dbf8ca5890116?pvs=4) 
 * [Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
-  * [Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4)
-  * [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4)
+* [Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4)
+* [Certification by Klimov Ilia](https://phrygian-condition-be6.notion.site/by-Klimov-Ilia-84cdb38cc10542958ba80cabcb1934de?pvs=4)
 - [💡Books I have read](#books-i-have-read)
 - [📞Contact information](#Contact-information) 
 
