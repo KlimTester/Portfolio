@@ -10,6 +10,7 @@ _______
   * [Working with code](#working-with-code)
 - [👨‍🎓Courses](#courses)
 - [📊Examples of my work](#examples-of-my-work)
+* [Mobile Testing of the SFERA Mobile application](https://phrygian-condition-be6.notion.site/Sfera-0df488114ce945e79031194b9b5e24fe?pvs=4)
 * [Testing the Landing Page of the Educational Platform](https://phrygian-condition-be6.notion.site/b208236d4ba14a3a9c2dbf8ca5890116?pvs=4) 
 * [Testing the teacher’s office in the SkyЕng application](https://phrygian-condition-be6.notion.site/Sky-ng-8058d76335444be0b8c5daa580af8644?pvs=4)
 * [Testing the teacher's office API in the SkyЕng application](https://phrygian-condition-be6.notion.site/API-Sky-ng-6c7ad6d8dadb453ebcaab07874072625?pvs=4)
@@ -130,6 +131,8 @@ __QA Engineer__
 
 ## 💻Projects
 
+- [✅Mobile Testing of the SFERA Mobile application](https://phrygian-condition-be6.notion.site/Sfera-0df488114ce945e79031194b9b5e24fe?pvs=4):
+Testing of the SFERA Mobile application SFERA is a mobile application, a digital ecosystem built on the all in one principle, when everything you need is in one place. The basis of the system is the messenger, on the basis of which there are various services. All services and all content in the system are focused on three areas of each person’s life: work, personal life, hobbies. SFERA should help the user develop primarily in offline life. All services and all content will have to fall under three definitions: development, benefit, interests.
 - [✅Testing the Landing Page of the Educational Platform](https://phrygian-condition-be6.notion.site/b208236d4ba14a3a9c2dbf8ca5890116?pvs=4): The Testing Landing Page of the Educational Platform: 
 1. Unit Testing
 2. Integration Testing
