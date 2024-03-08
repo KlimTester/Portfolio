@@ -160,8 +160,11 @@ _______
   ## Books I have read
 
 [ООП на Python Учебное Пособие](https://drive.google.com/file/d/1Ylu5ocLmjXORWros6M8DXhvujQuJmHvY/view?usp=sharing)
+
 [The Ultimate QA Testing Handbook](https://drive.google.com/file/d/1HfVMc8EGsjOQbjcuBd0EkCpFtR2UhyJb/view?usp=sharing)
+
 [Python by Example](https://drive.google.com/file/d/1HRjyimNs6CzkUSdGdhyWPezCYMeERqqy/view?usp=sharing)
+
 [Python Исчерпывающее Руководство](https://drive.google.com/file/d/1HTOaHaPuv634YoTyIiVoBFufgXbcSJBm/view?usp=sharing)
 
 _______
