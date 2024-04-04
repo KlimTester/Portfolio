@@ -1,7 +1,8 @@
-
-# Hello, I am Ilia Klimov - QA Engineer. 
 _______
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ2MzgxOGw1djM4Mm5pZGZsd3hjZnJ4bnIybjV5eG04enR1eWM5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200">
+
+_______
+# Hello, I am Ilia Klimov - QA Engineer. 
 _______
 - [About me](#about-me)
 - [CV](#cv)
