@@ -46,7 +46,7 @@ _______
 
 ## CV
 
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1Hx-9FRCM1qfSAhf9UX47ICOUVLyfMs29/view?usp=sharing) 
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1pf1mV71uIKLfJOB8XADzEOyouD1UrUut/view?usp=sharing) 
 
 _______
 
@@ -116,7 +116,7 @@ _______
 __QA Software Testing Engineer__  
 *SkyPro, Moscow, Russia 2023*  
 
-[Link to the Diploma]
+[Link to the Diploma](https://drive.google.com/file/d/1WVtzgmQHhGLxJlQnHMz_gRNTo6R4hi2g/view?usp=sharing)
 
 
 __QA Engineer__
